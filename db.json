@@ -1,0 +1,124 @@
+{
+    "herbstrains": [
+        {
+            "id": 0,
+            "name": "Kushberry",
+            "straintype": "Hybrid | Greenhouse",
+            "web": "https://www.420monkeys.com/product-page/kushberry-p-g",
+            "description": "Kushberry’s flavors lean toward a strong lemon and diesel combination, with flavors that are more herbal in nature.",
+            "straindetails": [
+                "Balance Hybrid",
+                "20% THC level",
+                "euphoric energy ",
+                "strain for night time",
+                "Stress and depression"
+            ],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Zen Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Blue Haze",
+            "straintype": "Indica | Indoor",
+            "web": "https://www.420monkeys.com/product-page/blue-haze-p-g",
+            "description": "Blue Haze has medium to large flowers that hold an elongated, spade-like shape.",
+            "straindetails": [
+                "Balance Hybrid",
+                "20% THC level",
+                "euphoric energy ",
+                "strain for night time",
+                "Stress and depression"
+            ],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Zen Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Strawberry Cough",
+            "straintype": "Sativa Hybrid | Indoor",
+            "web": "https://www.420monkeys.com/product-page/strawberry-cough-p-g",
+            "description": "Strawberry Cough is a bracing, taste-focused sativa hybrid.",
+            "straindetails": [
+                "Balance Hybrid",
+                "20% THC level",
+                "euphoric energy ",
+                "strain for night time",
+                "Stress and depression"
+            ],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Zen Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hydro Cookies Kush",
+            "straintype": "Indica | Indoor",
+            "web": "https://www.420monkeys.com/product-page/hydro-cookies-kush-p-g",
+            "description": "The Cookies Kush high can be a bit jarring to some as it brings together two opposing sensations that build and build as the high continues.",
+            "straindetails": [
+                "Balance Hybrid",
+                "20% THC level",
+                "euphoric energy ",
+                "strain for night time",
+                "Stress and depression"
+            ],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Zen Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Wet Dream",
+            "straintype": "Sativa | Indoor",
+            "web": "https://www.420monkeys.com/product-page/wet-dream-p-g",
+            "description": "Once you consume this bud’s hashy, heavy smoke, it won’t be long before you feel a slight dizziness or rush of blood to the head, along with some possible flushing in the cheeks.",
+            "straindetails": [
+                "Balance Hybrid",
+                "20% THC level",
+                "euphoric energy ",
+                "strain for night time",
+                "Stress and depression"
+            ],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Zen Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        }
+    ]
+}
